@@ -44,6 +44,6 @@ return a \* b;
 English. Stydying by myself.
 Grammar: English Grammar in Use, by Raymond Murphy
 Reading: texts in the Internet, "1984", by George Orwell
-Listening: BBC news, DW news, audiobooks ([last: "The Odyssey", B2 Intermediate+](https://english-e-reader.net/book/the-odyssey-homer))
-[EF Set][https://www.efset.org/] test result:
+Listening: [BBC news](https://www.youtube.com/c/BBCNews), [DW news](https://www.youtube.com/c/dwnews), [Audiobooks](https://english-e-reader.net/),
+[EF Set](https://www.efset.org/) test result:
 ![test result](/img/)
