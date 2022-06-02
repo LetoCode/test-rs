@@ -7,9 +7,13 @@ RS School student
 ## Contacts
 
 Location: Minsk, Belarus
+
 Phone: +375-44-766-71-47
+
 E-mail: pavlov.egor@gmail.com
+
 Discord:
+
 GitHub: [LetoCode](https://github.com/LetoCode)
 
 ## About myself
