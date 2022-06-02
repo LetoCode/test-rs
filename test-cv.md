@@ -7,13 +7,9 @@ RS School student
 ## Contacts
 
 Location: Minsk, Belarus
-
 Phone: +375-44-766-71-47
-
 E-mail: pavlov.egor@gmail.com
-
 Discord:
-
 GitHub: [LetoCode](https://github.com/LetoCode)
 
 ## About myself
@@ -36,12 +32,12 @@ Programming is very interesting to me. I learnt how to program in 1c language. A
 
 ## Code example
 
-'''
+```JS
 function multiply(a, b){
 return a \* b;
 }
 
-'''
+```
 
 ## Languages
 
