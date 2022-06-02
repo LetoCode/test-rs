@@ -1,13 +1,11 @@
 # Egor Pavlov
 
-====
 RS School student
 
 ---
 
 ## Contacts
 
-====
 Location: Minsk, Belarus
 Phone: +375-44-766-71-47
 E-mail: pavlov.egor@gmail.com
@@ -16,7 +14,6 @@ GitHub: [LetoCode](https://github.com/LetoCode)
 
 ## About myself
 
-====
 After the graduating the University I was working as an economist. And then as accountant.
 This experience and extra studying allowed me to become a Business Analyst in 1C Franchisee.
 I have a lot of successful projects. The most known companies I worked with are LLC "Radio Unistar",
@@ -26,7 +23,6 @@ Programming is very interesting to me. I learnt how to program in 1c language. A
 
 ## Education and Courses
 
-====
 **Belorussian State Technical Universiry**, Bachelor of Economy;
 **Business Analyst**, IT Academy;
 **Basic Jira and Confluence**, Institute IBA
@@ -36,7 +32,6 @@ Programming is very interesting to me. I learnt how to program in 1c language. A
 
 ## Code example
 
-====
 '''
 function multiply(a, b){
 return a \* b;
@@ -46,7 +41,6 @@ return a \* b;
 
 ## Languages
 
-====
 English. Stydying by myself.
 Grammar: English Grammar in Use, by Raymond Murphy
 Reading: texts in the Internet, "1984", by George Orwell
